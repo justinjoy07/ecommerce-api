@@ -94,7 +94,7 @@ pip install -r requirements.txt
 ```
 Run tests:
 ```bash
-TESTING_MODE=TRUE pytest -v
+PYTHONPATH=/path/to/the/project TESTING_MODE=TRUE pytest -v
 ```
 
 ## Error Handling
