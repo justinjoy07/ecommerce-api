@@ -25,7 +25,7 @@ This is a production-grade RESTful API for an e-commerce platform built with Fla
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-api.git
+git clone https://github.com/justinjoy07/ecommerce-api.git
 cd ecommerce-api
 ```
 
